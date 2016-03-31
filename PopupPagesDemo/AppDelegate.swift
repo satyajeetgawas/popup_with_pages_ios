@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  PopupPagesDemo
 //
-//  Created by CGIS on 3/30/16.
+//  Created by Satyajeet on 3/30/16.
 //  Copyright © 2016 CGIS. All rights reserved.
 //
 
